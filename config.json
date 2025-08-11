@@ -1,13 +1,13 @@
 {
   "app": {
     "name": "Go-AlphaBot",
-    "version": "0.2.4"
+    "version": "0.2.6"
   },
   "user": {
-     "uuid": "109654398",
-     "email":"chengjun@gmail.com",
-     "cookie": "bnc-uuid=156642c4-de30-4caa-a1f0-f11380e9826b; BNC_FV_KEY=33c31f21b42ea78b9e8ef57e2080bd2fdf5e4fbc; OptanonAlertBoxClosed=2025-01-20T10:49:49.856Z; userPreferredCurrency=USD_USD; _gcl_au=1.1.247270493.1747809003; _uetvid=72db65504d5c11ef88c0151ddcd5555b; lang=zh-CN; language=zh-CN; theme=dark; language=zh-CN; se_sd=1JSC1R1AQGVCAYTMbDwwgZZEhD1saEUUlpd5fW0V1JSWwCFNWVdQ1; se_gd=lgXFVBV4OBBAgIaBXG1cgZZDAAQVQBUU1MT5fW0V1JSWwDlNWV0T1; se_gsd=cDokCjtWJiAgN1YsJDIhDgQ9DxRQAgoKWF9FW11VVlJUVFNT1; currentAccount=; logined=y; BNC-Location=PH; _gid=GA1.2.320304287.1754192833; aws-waf-token=3ad31b8c-2710-40b9-b14a-26da377016c6:BgoAvJ88LP4wAAAA:SEy1E71KZOidXNzvkSU8HXu1C5IHOWQimUNOGYZakY/J8GSdnibELaDM5+lzpxWYl87fzMca5Bjm7sNX5lyU/qrQtuWQw4sICgSZg8xtGTcMjpNfHxFQ4J8a5ziGpN+ys5Dw2SgX5HYRYreuzAKNdtxhXjOsvOkh17gkjVNPzB1U8Av8NxdOa+CNeUKOJmHz2qphYHOiHg==; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2236370532%22%2C%22first_id%22%3A%2219483552ae21ed-041c4dd18170958-1d525636-2007040-19483552ae3f8d%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%2C%22%24latest_utm_source%22%3A%22BinanceTwitter%22%2C%22%24latest_utm_medium%22%3A%22GlobalSocial%22%2C%22%24latest_utm_campaign%22%3A%22GlobalSocial%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTk0ODM1NTJhZTIxZWQtMDQxYzRkZDE4MTcwOTU4LTFkNTI1NjM2LTIwMDcwNDAtMTk0ODM1NTJhZTNmOGQiLCIkaWRlbnRpdHlfbG9naW5faWQiOiIzNjM3MDUzMiJ9%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%24identity_login_id%22%2C%22value%22%3A%2236370532%22%7D%2C%22%24device_id%22%3A%22196f18b284b12c-0619d50da808a-19525636-2007040-196f18b284c13a2%22%7D; _gat=1; _gat_UA-162512367-1=1; BNC_FV_KEY_T=101-aVqBrwAs7ia0toPgr4EcSj%2B%2BJ9KJTgjJvF5W8pv8a%2FVcbKTedeZt4LVNsm7iRkYeXmfVfarqEaTRkJTa5lue%2Fg%3D%3D-EU3G6igcoVP3vqM8rJSNcA%3D%3D-e2; BNC_FV_KEY_EXPIRE=1754399751284; _ga=GA1.1.1250814000.1737370190; r20t=web.130E91D41C130213EC9854A5E228E3F6; r30t=1; cr00=A0FDA3FBD40C5D733845261B0E39258D; d1og=web.36370532.A3B96A0F625497083E9FB0A312E619CF; r2o1=web.36370532.8FCFDD106DBC52976CB30EEB9238BB73; f30l=web.36370532.E38583AF496842BE3E6AE9F4F81C0665; p20t=web.36370532.577A6AEE13AF4C2052FFAB7E5A74199F; _ga_3WP50LGEEC=GS2.1.s1754378151$o11$g1$t1754378162$j49$l0$h0; OptanonConsent=isGpcEnabled=0&datestamp=Tue+Aug+05+2025+15%3A16%3A07+GMT%2B0800+(China+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7c3cc5ff-24a6-4f2d-a75a-47f5f41a313d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0002%3A1&intType=1&geolocation=HK%3B&AwaitingReconsent=false",
-     "csrfToken": "4db244889e680f5fa7c3f0b1065c131e"
+     "uuid": "",
+     "email":"",
+     "cookie": "",
+     "csrfToken": ""
   },
   "binance": {
     "apiKey": "YOUR_API_KEY_HERE",
